@@ -1,6 +1,6 @@
 /**
  * @file exercise2.cpp
- * @author Rohit Reddy Pakhala (rpakhala@umd.edu) UID 119399125
+ * @author Rohit Reddy Pakhala (rpakhala@umd.edu) (rohitpreddi@gmail.com)
  * @brief Program for filling the slots by different pegs using robotic arm
  * @version 0.1
  * @date 2022-10-02
