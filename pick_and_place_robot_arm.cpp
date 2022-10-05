@@ -1,6 +1,6 @@
 /**
  * @file exercise1.cpp
- * @author Rohit Reddy Pakhala(rpakhala@umd.edu)
+ * @author Rohit Reddy Pakhala(rpakhala@umd.edu)(rohitpreddi@gmail.com)
  * @brief program for a robot arm to pick and place the parts using the specified grippers and placing them on the desired color table.
  * @version 0.1
  * @date 2022-10-02
